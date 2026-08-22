@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.safetensors
-*.bin
-huggingface_cache/
-.cache/
-.env
-venv/
-genai_env/
